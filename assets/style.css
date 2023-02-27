@@ -3,15 +3,15 @@ body{
 
 }
 
-header{
+.intestazione{
     background-image: url(../img/pattern.png);
-    background-color: #1E90FF;
-    height: 200px;   
+    height: 200px;
+    background-color: hsla(214, 100%, 50%, 0.808);
 }
 
-header img{
+#logo{
     width: 20%;
-    padding-top: 120px;
+    padding-top: 100px;
     padding-left: 10px;
 }
 
@@ -21,16 +21,9 @@ header img{
 }
 
 .header-text{
-    color: grey;
+    color: #8E8E8E;
 }
 
 .header-span{
-    color: #5CACEE;
-
-}
-
-.Tim-1{
-    background-color: red;
-    height: 20px;
-   
+    color: #00BFFF;
 }
