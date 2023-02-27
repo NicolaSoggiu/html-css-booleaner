@@ -1,0 +1,30 @@
+body{
+   /*scegliere il font*/
+
+}
+
+header{
+    background-image: url(../img/pattern.png);
+    background-color: #1E90FF;
+    height: 200px;   
+}
+
+header img{
+    width: 20%;
+    padding-top: 120px;
+    padding-left: 10px;
+}
+
+.title{
+    font-size: 50px;
+    margin-bottom: 0;
+}
+
+.header-text{
+    color: grey;
+}
+
+.header-span{
+    color: #5CACEE;
+
+}
