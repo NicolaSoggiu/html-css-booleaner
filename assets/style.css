@@ -58,3 +58,26 @@ th{
 .blue{
     background-color: #87CEEB;
 }
+
+.blocco{
+    width: 250px;
+    height: 200px;
+
+}
+
+.span-image{
+    color: #8E8E8E;
+}
+
+.img-1, .img-2{
+   width: 250px;
+   height: 250px;
+   background-image: url(../img/monitor.jpg);
+   background-size: 100%;
+   background-repeat: no-repeat;
+}
+
+#testo-immagine-monitor{
+    color: white;
+    padding-left: 10px;
+}
