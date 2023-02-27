@@ -1,6 +1,6 @@
 body{
-   /*scegliere il font*/
-
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Ubuntu' sans-serif;
 }
 
 .intestazione{
@@ -30,6 +30,10 @@ body{
 
 .tim{
     margin-top: 20px;
+}
+
+.descritions{
+    font-size: 15px;
 }
 
 .border-1{
@@ -65,19 +69,32 @@ th{
 
 }
 
-.span-image{
+.div-image{
     color: #8E8E8E;
+    margin-bottom: 10px;
 }
 
-.img-1, .img-2{
+.img-1{
    width: 250px;
    height: 250px;
    background-image: url(../img/monitor.jpg);
    background-size: 100%;
    background-repeat: no-repeat;
+   position: relative;
 }
 
-#testo-immagine-monitor{
+.img-2{
+    width: 250px;
+    height: 250px;
+    background-image: url(..//img/graph.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    position: relative;
+ }
+
+#testo-immagine-monitor1, #testo-immagine-monitor2{
     color: white;
     padding-left: 10px;
+    padding-top: 10px;
+    position: absolute;
 }
