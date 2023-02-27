@@ -27,3 +27,34 @@ body{
 .header-span{
     color: #00BFFF;
 }
+
+.tim{
+    margin-top: 20px;
+}
+
+.border-1{
+    background-color: yellow;
+}
+
+table{
+    width: 100%;
+    border-spacing: 0;
+}
+
+.colore-tabella{
+    color: white;
+    background-color: #00B2EE;
+}
+
+.colonna{
+    width: 25%;
+    text-align: left;
+}
+
+th{
+    text-align: left;
+}
+
+.blue{
+    background-color: #87CEEB;
+}
